@@ -7,14 +7,49 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Issue Form
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+#### Description
+[Describe the issue you are experiencing or the feature you would like to request]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+#### Steps to Reproduce
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+   - [Sub-step A]
+   - [Sub-step B]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+#### Expected Behavior
+[Describe what you expected to happen]
+
+#### Actual Behavior
+[Describe what actually happened]
+
+#### Screenshots
+[If applicable, add screenshots to help explain your problem]
+
+#### Environment (if applicable)
+- Operating System:
+- Browser (if web-related issue):
+- Version (if applicable):
+- Any other relevant details:
+
+#### Additional Information
+[Any additional information, logs, or context that might help]
+
+#### Checklist
+Please mark the following checkboxes after completing each task:
+
+- [ ] I have searched existing issues before opening this one.
+- [ ] I have provided a clear and descriptive title for this issue.
+- [ ] I have filled out all the sections in this template.
+
+#### Labels
+[Add any relevant labels to this issue]
+
+#### Assignees
+[Assign one or more people to this issue]
+
+#### Milestone
+[Link to the relevant milestone, if applicable]
+
