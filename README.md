@@ -1,8 +1,5 @@
 # Scrimfinder
-The Official Github repo of Scrimfinder 
-
-## Why isn't it open source?
-We don't want to make the code opensource to reduce bugabusing.
+The Issues only Github repo of Scrimfinder 
 
 ## How can I contribute?
 If you have a feature you would love to see in the Bot or found a bug you can open an Issue.
