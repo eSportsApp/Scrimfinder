@@ -17,7 +17,7 @@
   <p align="center">
     The easiest way to get started when working with the Scrimfinder NEtwork
     <br />
-    <a href="https://docs.esportsapp.gg"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.scrimfinder.gg"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://docs.scrimfinder.gg/invite">Invite the official Bot</a>
