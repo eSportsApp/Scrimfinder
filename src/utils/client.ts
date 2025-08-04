@@ -1,12 +1,12 @@
-import ScrimFinder from '@esportsapp/client';
+import { eSportsApp } from '@esportsapp/core';
+import { ClientModule } from '@esportsapp/client';
 import apikey from './env';
 
 
-let sclient: any;
-if (apikey) {
-  sclient = new ScrimFinder(apikey);
-} else {
-  throw new Error('eSportsApp API Key is required');
-}
-
-export default sclient;
+const esportsapp = new eSportsApp({
+  plugins: [new ClientModule()],
+  auth: {
+    apikey: apikey,
+  },
+});
+export default esportsapp;

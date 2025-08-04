@@ -1,5 +1,5 @@
 import { Client } from 'discord.js';
-import sclient from '../../utils/client';
+import esportsapp from '../../utils/client';
 import sendScrimMessage from '../../services/sendScrimMessage';
 import closeScrimMessage from '../../services/closeScrimSearch';
 import apikey from '../../utils/env';
@@ -28,7 +28,7 @@ export default (client: Client) => {
         console.log("Message handler Set");
     };
         // Set the message handler
-        sclient.setMessageHandler(messageHandler);
+        esportsapp.client.setMessageHandler(messageHandler);
         // Connect to the Network
-        sclient.connect(apikey, "Scrimfinder");
+      //  esportsapp.client.connect(apikey, "Scrimfinder");
 };
